@@ -14,7 +14,7 @@
         "ext-curl": "*",
         "ext-json": "*",
         "symfony/config": "^4.0 || ^5.0 || ^6.0 || ^7.0",
-        "symfony/dependency-injection": "^4.0 || ^5.0 || ^6.0 || ^7.0",
+        "symfony/dependency-injection": "^4.0 || ^5.0 || ^6.0 || ^7.2",
         "symfony/http-kernel": "^4.0 || ^5.0 || ^6.0 || ^7.0",
         "symfony/cache": "^4.0 || ^5.0 || ^6.0 || ^7.0",
         "symfony/serializer": "^4.0 || ^5.0 || ^6.0 || ^7.0",
